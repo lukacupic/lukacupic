@@ -1,4 +1,4 @@
-<img src="Images/Rainbow.gif" width="100%">
+<img src="Rainbow.gif" width="100%">
 
 <h3 align="center">I'm Luka.</h3>
 
@@ -29,4 +29,4 @@
   <img src="https://spotifyreadmelc.vercel.app/api" alt="Current Spotify Song">
 </a>
 
-<img src="Images/Rainbow.gif" width="100%">
+<img src="Rainbow.gif" width="100%">
