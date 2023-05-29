@@ -1,5 +1,3 @@
-<img src="Rainbow.gif" width="100%">
-
 <h3 align="center">I'm Luka.</h3>
 
 <div align="center">
@@ -28,5 +26,3 @@
 <a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://spotifyreadmelc.vercel.app/api" alt="Current Spotify Song">
 </a>
-
-<img src="Rainbow.gif" width="100%">
