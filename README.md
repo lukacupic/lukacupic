@@ -1,13 +1,13 @@
-<h3 align="center">I'm Luka.</h3>
+<h3 align="left">I'm Luka.</h3>
 
-<div align="center">
+<div align="left">
   CS graduate, karate amateur, guitar player... and a few things in between.
 </div>
 
 <hr>
 
-<div align="center">
-<h4> Languages I've played with</h4>
+<h3> Languages I've played with</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/-Java-d92f1c?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-C/C++-orange?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black">
