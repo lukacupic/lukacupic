@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-HTML-yellow?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JS-green?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-CSS-25c492?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=dart&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-PHP-indigo?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Bash-purple?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Scala-violet?style=for-the-badge&logo=scala&logoColor=white&labelColor=black">
