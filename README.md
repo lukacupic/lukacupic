@@ -1,7 +1,7 @@
 <h3 align="left">I'm Luka.</h3>
 
 <div align="left">
-  Software engineer from Croatia. Student of karate. Guitar player. Solo backpacker. Occasional writer.
+  Software engineer. Student of karate. Guitar player. Amateur astronomer. Solo backpacker. Occasional writer.
 </div>
 
 <hr>
