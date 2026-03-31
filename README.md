@@ -1,7 +1,7 @@
 <h3 align="left">Hey, I'm Luka.</h3>
 
 <div align="left">
-  Software engineer, student of karate, musician, amateur astronomer, backpacker, occasional writer.
+  Software engineer, musician, student of karate, backpacker, amateur astronomer, backyard decadeologist, occasional writer.
 </div>
 
 <hr>
